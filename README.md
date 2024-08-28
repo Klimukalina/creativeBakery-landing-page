@@ -1,4 +1,5 @@
- - [DEMO LINK](https://Klimukalina.github.io/layout_creativeBakery/).
+[DEMO LINK](https://Klimukalina.github.io/layout_creativeBakery/).
+
 The HTML structure is well-organized and utilizes semantic elements to represent different website sections. Here's a breakdown of key components:
   <!DOCTYPE html>: Declares the document type as HTML5.
   <html>: The root element of the HTML document.
